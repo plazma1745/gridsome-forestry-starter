@@ -1,10 +1,8 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
+thumbnail: "/v1613326349/m7/2020-05-19_12-35-39_zesvsr.jpg"
 title: Вибропресс Урал М7
 date: 2019-01-03
-categories:
-- photography
-- yellow
+categories: []
 project_bg_color: ''
 project_fg_color: ''
 
